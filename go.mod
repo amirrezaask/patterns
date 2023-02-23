@@ -1,3 +1,3 @@
-module github.com/amirrezaask/patterns
+module github.com/amirrezaask/go-circuit-breaker
 
 go 1.19
